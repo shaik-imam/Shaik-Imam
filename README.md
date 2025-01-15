@@ -28,7 +28,7 @@ Hey there! I'm Imam, and iam garduated Mechanical Engineering student at Seshadr
 ## 🌐 Let's Connect!
 - 📧 Email: [shaik.imam57865@gmail.com](mailto:shaik.imam57865@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-imam-958b93267)
-- 🐙 [GitHub](https://github.com/20481A03D3)
+- 🐙 [GitHub](https://github.com/shaik-imam)
 
 ---
 
