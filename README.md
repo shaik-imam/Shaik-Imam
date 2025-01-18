@@ -7,7 +7,7 @@ Hey there! I'm Imam, and iam garduated Mechanical Engineering student at Seshadr
 
 ##  My Skills & Interests:
 - **Programming**: C, Python, Core Java  
-- **Engineering Tools**: CATIA V5, SolidWorks, Arduino  
+- **Engineering Tools**: CATIA V5, SolidWorks  
 - **Interests**:Problem Solving,Pariticipate Programs
 
 ---
